@@ -6,7 +6,6 @@ the automotive industry where I can utilize my skills and experience to contribu
 success of the company and advance my career.
 
 ---
-
 ## PERSONAL DETAILS
 
 | *Mail*  | quanduong1396@gmail.com    |
@@ -14,12 +13,12 @@ success of the company and advance my career.
 | *Phone* | 0937 060 413               |
 
 ---
-
 ## EDUCATION
 
 **Machine Learning** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2018–2022`**  
 *Duy Tan University*  
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.8/4.0 – Software Engineering, focusing on Big Data & Machine Learning
+
 ---
 ## SKILLS
 
@@ -35,11 +34,11 @@ success of the company and advance my career.
 **Automotive Research Engineer** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2022 - 2023`**  
 *LGEDV Da Nang*  
 
-&nbsp;&nbsp;**Application service:**  
-&nbsp;&nbsp;Working with the framework layer (C++) as a communicator between HMI and system beneath layers on a QNX-based system. Providing and implementing solutions for requirements from clients, maintaining features, preventing them from causing unexpected behaviors.
+&nbsp;&nbsp;&nbsp;Application service:  
+&nbsp;&nbsp;&nbsp;&nbsp;Working with the framework layer (C++) as a communicator between HMI and system beneath layers on a QNX-based system. Providing and implementing solutions for requirements from clients, maintaining features, preventing them from causing unexpected behaviors.
 
-&nbsp;&nbsp;**Subsystem service:**  
-&nbsp;&nbsp;Working on a service from the subsystem layer (C++) to provide database solution using sqlite.
+&nbsp;&nbsp;&nbsp;Subsystem service:  
+&nbsp;&nbsp;&nbsp;&nbsp;Working on a service from the subsystem layer (C++) to provide database solution using sqlite.
 
 ---
 ## ACHIEVEMENT AND CERTIFICATE
@@ -48,11 +47,16 @@ success of the company and advance my career.
 *900/990*
 
 ---
+## STRENGTH AND WEAKNESS
 
+|   |                                                                  |
+|---------------|-------------------------------------------------------------------------------------|
+| *Strengths*   | Hard working and persistency <br> Goal and detail oriented <br> Quick understanding new concepts|
+| *Weaknesses*   | Being too sensitive about the result <br>Still working on concentration |
+
+---
 ## HOBBIES
 
-**Project Name**  
-Short description of the project, technologies used, and your role.
-
-**Project Name**  
-Short description of the project, technologies used, and your role.
+- Drawing
+- Reading
+- Playing sports, playing video games.
