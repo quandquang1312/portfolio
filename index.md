@@ -1,15 +1,74 @@
-## Duong Quang Quan
-An enthusiastic engineer who seeks for challenge and opportunity on the way to improve
-himself on both technical and non-technical aspect. I aim to secure a challenging role in
-the automotive industry where I can utilize my skills and experience to contribute to the
-success of the company and advance my career.
-
-### Personal Detail
+# Duong Quang Quan 
+  
+[Danang City, Vietnam]
 
 ---
 
-| *Mail*  | quanduong1396@gmail.com     |
-|---------|-----------------------------|
-| *Phone* | 0937 060 413                |
+## PERSONAL DETAILS
 
-### Education
+| *Mail*  | quanduong1396@gmail.com    |
+|---------|----------------------------|
+| *Phone* | 0937 060 413               |
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Briefly summarize your experience, skills, and career goals in 2-3 sentences.
+
+---
+
+## SKILLS
+
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+---
+
+## EXPERIENCE
+
+**Job Title**  
+*Company Name* — Location  
+Month Year – Month Year  
+- Responsibility or achievement 1  
+- Responsibility or achievement 2  
+- Responsibility or achievement 3  
+
+**Job Title**  
+*Company Name* — Location  
+Month Year – Month Year  
+- Responsibility or achievement 1  
+- Responsibility or achievement 2  
+
+---
+
+## EDUCATION
+
+**Degree**  
+*Institution Name* — Location  
+Month Year – Month Year
+
+---
+
+## PROJECTS
+
+**Project Name**  
+Short description of the project, technologies used, and your role.
+
+**Project Name**  
+Short description of the project, technologies used, and your role.
+
+---
+
+## CERTIFICATIONS
+
+- Certification Name, Issuer — Year
+
+---
+
+## LANGUAGES
+
+- Language 1 (Level)
+- Language 2 (Level)
