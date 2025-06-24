@@ -1,6 +1,9 @@
 # Duong Quang Quan 
-  
-[Danang City, Vietnam]
+
+An enthusiastic engineer who seeks for challenge and opportunity on the way to improve
+himself on both technical and non-technical aspect. I aim to secure a challenging role in
+the automotive industry where I can utilize my skills and experience to contribute to the
+success of the company and advance my career.
 
 ---
 
@@ -12,63 +15,44 @@
 
 ---
 
-## PROFESSIONAL SUMMARY
-
-Briefly summarize your experience, skills, and career goals in 2-3 sentences.
-
----
-
-## SKILLS
-
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
-
----
-
-## EXPERIENCE
-
-**Job Title**  
-*Company Name* — Location  
-Month Year – Month Year  
-- Responsibility or achievement 1  
-- Responsibility or achievement 2  
-- Responsibility or achievement 3  
-
-**Job Title**  
-*Company Name* — Location  
-Month Year – Month Year  
-- Responsibility or achievement 1  
-- Responsibility or achievement 2  
-
----
-
 ## EDUCATION
 
-**Degree**  
-*Institution Name* — Location  
-Month Year – Month Year
+**Machine Learning** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2018–2022`**  
+*Duy Tan University*  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.8/4.0 – Software Engineering, focusing on Big Data & Machine Learning
+---
+## SKILLS
+
+|   |                                                                  |
+|---------------|-------------------------------------------------------------------------------------|
+| *Languages*   | C/C++, Javascript, Python, Bash Script, Java                                                                 |
+| *Technical*   | Linux’s IPCs, basic Linux system, QNX-based system. <br>Automotive knowledge, Architecture design and patterns <br>Data Structure and Algorithm <br>Mathematics background, Statistical Models <br>Machine Learning/Deep Learning knowledge |
+| *Soft skills* | Capability of researching new topics <br>Scientific reading <br>Knowledge systematization |
+
+---
+## WORK EXPERIENCE
+
+**Automotive Research Engineer** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2022 - 2023`**  
+*LGEDV Da Nang*  
+
+&nbsp;&nbsp;**Application service:**  
+&nbsp;&nbsp;Working with the framework layer (C++) as a communicator between HMI and system beneath layers on a QNX-based system. Providing and implementing solutions for requirements from clients, maintaining features, preventing them from causing unexpected behaviors.
+
+&nbsp;&nbsp;**Subsystem service:**  
+&nbsp;&nbsp;Working on a service from the subsystem layer (C++) to provide database solution using sqlite.
+
+---
+## ACHIEVEMENT AND CERTIFICATE
+
+**TOEIC** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2022`**  
+*900/990*
 
 ---
 
-## PROJECTS
+## HOBBIES
 
 **Project Name**  
 Short description of the project, technologies used, and your role.
 
 **Project Name**  
 Short description of the project, technologies used, and your role.
-
----
-
-## CERTIFICATIONS
-
-- Certification Name, Issuer — Year
-
----
-
-## LANGUAGES
-
-- Language 1 (Level)
-- Language 2 (Level)
