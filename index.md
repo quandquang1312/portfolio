@@ -7,9 +7,10 @@ success of the company and advance my career.
 
 ---
 ## PERSONAL DETAILS
+
 |         |                            |
 |---------|----------------------------|
-| *Address*  | Da Nang, Viet Nam    |
+| *Address* | Da Nang, Viet Nam        |
 | *Mail*  | quanduong1396@gmail.com    |
 | *Phone* | 0937 060 413               |
 
