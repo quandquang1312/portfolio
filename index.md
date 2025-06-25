@@ -7,7 +7,7 @@ success of the company and advance my career.
 
 ---
 ## PERSONAL DETAILS
-|||
+|         |                            |
 |---------|----------------------------|
 | *Address*  | Da Nang, Viet Nam    |
 | *Mail*  | quanduong1396@gmail.com    |
@@ -18,12 +18,12 @@ success of the company and advance my career.
 
 **Machine Learning** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`2018–2022`**  
 *Duy Tan University*  
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.8/4.0 – Software Engineering, focusing on Big Data & Machine Learning
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.8/4.0 – Software Engineering, Focus on Big Data & Machine Learning
 
 ---
 ## SKILLS
 
-|   |                                                                  |
+|               |                                                                                     |
 |---------------|-------------------------------------------------------------------------------------|
 | *Languages*   | Proficient in C/C++  <br> Experienced with Python and Bash Scripting <br> Done university projects on Java and C# (not currently active) |
 | *Technical*   | Experienced on Linux system, Android platform, QNX-based system. <br> Automotive knowledge, Architecture design and patterns. <br> Experienced working with JIRA, Git, Codebeamer. <br> Good knowledge of OOP, IPCs, multi-threading and design patterns. <br> Data Structure and Algorithms. |
@@ -55,14 +55,14 @@ success of the company and advance my career.
 ---
 ## STRENGTH AND WEAKNESS
 
-|   |                                                                  |
+|               |                                                                                     |
 |---------------|-------------------------------------------------------------------------------------|
 | *Strengths*   | Hard working and persistency <br> Goal and detail oriented <br> Quick understanding new concepts|
-| *Weaknesses*   | Being too sensitive about the result <br>Still working on concentration |
+| *Weaknesses*  | Being too sensitive about the result <br>Still working on concentration |
 
 ---
 ## HOBBIES
 
-- Drawing
-- Reading
+- Drawing, Cooking
+- Reading, watching movies
 - Playing sports, playing video games.

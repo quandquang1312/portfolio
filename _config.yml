@@ -1,11 +1,7 @@
-title: Quang Quan
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Portfolio
+logo: "/images/avatar.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/quan-duong-033b36106/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/quan-duong-033b36106/">My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
